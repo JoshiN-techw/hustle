@@ -1,4 +1,4 @@
-                                      User Guide for Oracle Identity Manager
+Oracle Identity Manager
 Introduction:
 	Oracle Identity Manager (OIM) is used by organizations for managing the lifecycle of users i.e. onboarding users, provisioning them to targets, handling the modifications and leaver process of identities, all on a single platform.
 	It also allows users to manage their own identities and passwords.

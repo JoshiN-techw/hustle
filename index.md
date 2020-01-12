@@ -10,7 +10,7 @@ Introduction:
 
 Product Architecture:
 
-	Oracle Identity Manager is a web application which is deployed on Weblogic server and communicates to the server via http/s.
+Oracle Identity Manager is a web application which is deployed on Weblogic server and communicates to the server via http/s.
 
 
 Modes of accessing OIM:

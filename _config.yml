@@ -1,3 +1,4 @@
 title: Learn about Identity & Access Management!
 theme: jekyll-theme-cayman
-image: assets/PEMUpload.png
+image:
+  source: assets/PEMUpload.png

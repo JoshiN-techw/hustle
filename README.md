@@ -33,4 +33,6 @@ In Oracle Identity Manager, it is often required to run jobs at specified times 
 To meet the security policies of an organization, employees may be required to change their product application password every 60 days. For this purpose, the system administrator has to ensure that an email is sent to all employees whose passwords for the respective product applications have expired. One approach would be to identify the set of users whose passwords have expired and send email to each employee manually. Alternatively, the system administrator can use a service, such as scheduler. In Oracle Identity Manager, there is a predefined scheduled task called Password Warning Task. The system administrator can use this scheduled task to create a scheduled job with the intended schedule.
 
 
+![PEM Upload](https://user-images.githubusercontent.com/59788063/73135084-7ca02a00-4064-11ea-9b51-4c6c70067b05.png)
+
 

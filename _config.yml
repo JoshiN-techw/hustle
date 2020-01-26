@@ -1,5 +1,5 @@
 title: Learn about Identity & Access Management!
-remote_theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 image:
   source: /assets/PEMUpload.png
   output: generated

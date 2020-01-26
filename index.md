@@ -1,3 +1,4 @@
+image: <img src="images/MPP.png">
 Oracle Identity Manager
 
 

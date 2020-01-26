@@ -1,4 +1,16 @@
 title: Learn about Identity & Access Management!
 theme: jekyll-theme-cayman
 image:
-  source: assets/PEMUpload.png
+  source: assets/PEMUpload
+  output: generated
+  presets:
+    # Proportional preset
+    users:
+      attr:
+        class: user-portrait
+        itemprop: image
+      width: 350
+    # Scaled and cropped preset
+    half:
+      width: 400
+      height: 400
